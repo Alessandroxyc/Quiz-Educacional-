@@ -1,3 +1,4 @@
+
 --------------------------------------------
 
 BUG-001 – Poder usar emojis ao alterar o nome de usuário
