@@ -35,3 +35,5 @@ CT-XX – Cadastro sem nome de usuário
 - Objetivo: verificar se o sistema impede o cadastro quando o campo de nome de usuário está vazio.
 - Entrada: preencher os demais campos obrigatórios com dados válidos e deixar o campo de nome de usuário vazio.
 - Resultado esperado: o sistema deve impedir o cadastro e informar que o campo de nome de usuário é obrigatório.
+
+--------------------------------------------

@@ -50,3 +50,5 @@ BUG-005 – Cadastro permite cadastro sem nome de usuário
 - Atual: É possível realizar o cadastro deixando o campo de nome de usuário vazio.
 - Status: 🔴 Aberto
 - Retestado: ❌
+
+--------------------------------------------
